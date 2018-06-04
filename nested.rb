@@ -85,6 +85,7 @@ def adding_matz
      }
      
   programmer_hash[:new_guy] = {}
+  return programmer_hash
     
 end
 
